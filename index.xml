@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Kukelikuelikuken</title>
     <link>/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Kukelikuelikuken</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>support@appernetic.io (Admin)</managingEditor>
+    <webMaster>support@appernetic.io (Admin)</webMaster>
+    <copyright>(c) 2016 Khmer</copyright>
     <lastBuildDate>Tue, 23 Feb 2016 16:37:59 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>gsm</title>
-      <link>/post/gsm/</link>
+      <link>/2016/02/23/gsm/</link>
       <pubDate>Tue, 23 Feb 2016 16:37:59 +0000</pubDate>
-      
-      <guid>/post/gsm/</guid>
-      <description>&lt;p&gt;In Khmer Rouge era the Chinese built this air strip.
-Picture from github here /images/12697273_1323105704381487_4152874675511216701_o.jpg
-The strip was built deep inside Cambodia to counter the Vietnam war.
+      <author>support@appernetic.io (Admin)</author>
+      <guid>/2016/02/23/gsm/</guid>
+      <description>&lt;p&gt;In Khmer Rouge era the Chinese built this air strip.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/images/12697273_1323105704381487_4152874675511216701_o.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The strip was built deep inside Cambodia to counter the Vietnam war.
 Read more here &lt;a href=&#34;http://www.salon.com/2015/11/10/henry_kissingers_genocidal_legacy_partner/&#34;&gt;http://www.salon.com/2015/11/10/henry_kissingers_genocidal_legacy_partner/&lt;/a&gt;
 It seems oral and written statements not match
 Discus here&lt;/p&gt;
