@@ -9,8 +9,18 @@
     <managingEditor>support@appernetic.io (Admin)</managingEditor>
     <webMaster>support@appernetic.io (Admin)</webMaster>
     <copyright>(c) 2016 Khmer</copyright>
-    <lastBuildDate>Tue, 23 Feb 2016 16:37:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2016 10:19:30 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Thu, 25 Feb 2016 10:19:30 +0000</pubDate>
+      <author>support@appernetic.io (Admin)</author>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;I am appernetic2. Appernetic.io&amp;rsquo;s friend and business partner for a long time. I have now started beta and ceta testing the site. As I now Appernetic I know how to test his patience big time. When I betatest the products I go dumb and dumber (If you not watched the movie do it and Samsonite is the key word) on the code try fuck with Appernetic as much as possible for your benefit. Also the product is tested from rural Cambodia in gsm-mode to test my own patience as user. This blog is the start of my memoirs book. Working name: How I got two wifes in Cambodia (against my will)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>gsm</title>
