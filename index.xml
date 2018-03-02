@@ -1,76 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>My blog</title>
     <link>/</link>
-    <description>Recent content on </description>
+    <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2016 Copyright my blog</copyright>
     <lastBuildDate>Fri, 01 Jul 2016 12:06:15 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Today is the start of not same same bar</title>
-      <link>/post/today-is-the-start-of-not-same-same-bar/</link>
+      <link>/2016/07/01/today-is-the-start-of-not-same-same-bar/</link>
       <pubDate>Fri, 01 Jul 2016 12:06:15 +0000</pubDate>
-      
-      <guid>/post/today-is-the-start-of-not-same-same-bar/</guid>
-      <description>&lt;p&gt;Not same same bar to open today by the most beautiful woman in the world :)
-daily sales
-Juli 1 - $191&lt;/p&gt;
-</description>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/2016/07/01/today-is-the-start-of-not-same-same-bar/</guid>
+      <description>Not same same bar to open today by the most beautiful woman in the world :) daily sales Juli 1 - $191</description>
     </item>
     
     <item>
       <title>about</title>
       <link>/about/</link>
       <pubDate>Thu, 25 Feb 2016 10:19:30 +0000</pubDate>
-      
+      <author>yourname@example.com (yourname)</author>
       <guid>/about/</guid>
-      <description>&lt;p&gt;I am appernetic2. Appernetic.io&amp;rsquo;s friend and business partner for a long time. I have now started beta and ceta testing the site. As I know Appernetic I know how to test his patience big time. When I betatest the products I go dumb and dumber (If you not watched the movie do it and Samsonite is the key word) on the code try fuck with Appernetic as much as possible for your benefit. Also the product is tested from rural Cambodia in gsm-mode to test my own patience as user. This blog is the start of my memoirs book. Working name: How I got two wifes in Cambodia (against my will)&lt;/p&gt;
-</description>
+      <description>I am appernetic2. Appernetic.io&amp;rsquo;s friend and business partner for a long time. I have now started beta and ceta testing the site. As I know Appernetic I know how to test his patience big time. When I betatest the products I go dumb and dumber (If you not watched the movie do it and Samsonite is the key word) on the code try fuck with Appernetic as much as possible for your benefit.</description>
     </item>
     
     <item>
       <title>gsm</title>
-      <link>/post/gsm/</link>
+      <link>/2016/02/23/gsm/</link>
       <pubDate>Tue, 23 Feb 2016 16:37:59 +0000</pubDate>
-      
-      <guid>/post/gsm/</guid>
-      <description>&lt;p&gt;In Khmer Rouge era the Chinese built this air strip. It is a long runway, I would imagine a big commercial plane could land here at any moment.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/images/12697273_1323105704381487_4152874675511216701_o.jpg&#34; alt=&#34;https://en.m.wikipedia.org/wiki/Kampong_Chhnang_Airport&#34; /&gt;
-&lt;a href=&#34;https://en.m.wikipedia.org/wiki/Kampong_Chhnang_Airport&#34;&gt;https://en.m.wikipedia.org/wiki/Kampong_Chhnang_Airport&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The strip was built deep inside Cambodia to counter the Vietnam war and facilitate Chinese warplanes.&lt;/p&gt;
-
-&lt;p&gt; “Henry A. Kissinger approved each of the 3,875 Cambodia bombing raids in 1969 and 1970” — the most secretive phase of the bombing — “as well as the methods for keeping them out of the newspapers.”&lt;/p&gt;
-
-&lt;p&gt;All told, between 1969 and 1973, the U.S. dropped half-a-million tons of bombs on Cambodia alone, killing at least 100,000 civilians. &lt;/p&gt;
-
-&lt;p&gt;Read more here
-&lt;a href=&#34;http://www.salon.com/2015/11/10/henry_kissingers_genocidal_legacy_partner/&#34;&gt;http://www.salon.com/2015/11/10/henry_kissingers_genocidal_legacy_partner/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It seems oral and written statements not match in timeline.&lt;/p&gt;
-
-&lt;p&gt;The air strip is now guarded by one military at the checkpoint and one police in hammock. It currently resides one plane&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/images/12729239_1323268787698512_7866697459634217947_n.jpg&#34;&gt;Not the royal air force but a cool one man flying machine :) &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;2025 it is supposed to be a major hub in south east asia taking up competition with Bangkok hub. Is it possible?  I do not know. It is situated aproximately 110 km from capital Phnom Pehn, 190 km from Battambang. 10 km from provincial capital of kampung chhnang.&lt;/p&gt;
-
-&lt;p&gt;Who will pay for the enlargment. The area for build is vast. But good luck for PM Hun Sen to make progress and development in Cambodia.&lt;/p&gt;
-
-&lt;p&gt;&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
-    var disqus_config = function () {
-        this.page.url = &lt;a href=&#34;http://appernetic2.github.io/2016/02/23/gsm/&#34;&gt;http://appernetic2.github.io/2016/02/23/gsm/&lt;/a&gt;  //
-        this.page.identifier = PAGE_IDENTIFIER; // Replace&lt;/p&gt;
-</description>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/2016/02/23/gsm/</guid>
+      <description>In Khmer Rouge era the Chinese built this air strip. It is a long runway, I would imagine a big commercial plane could land here at any moment.
+https://en.m.wikipedia.org/wiki/Kampong_Chhnang_Airport
+The strip was built deep inside Cambodia to counter the Vietnam war and facilitate Chinese warplanes.
+ “Henry A. Kissinger approved each of the 3,875 Cambodia bombing raids in 1969 and 1970” — the most secretive phase of the bombing — “as well as the methods for keeping them out of the newspapers.</description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>/home/</link>
+      <pubDate>Mon, 22 Feb 2016 16:00:28 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/home/</guid>
+      <description>test</description>
     </item>
     
   </channel>
