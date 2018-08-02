@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My blog</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on My blog</description>
+    <title>Posts on Appernetic2</title>
+    <link>https://appernetic2.github.io/post/</link>
+    <description>Recent content in Posts on Appernetic2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2016 Copyright my blog</copyright>
+    <managingEditor>janne_sar@hotmail.com (Jan S)</managingEditor>
+    <webMaster>janne_sar@hotmail.com (Jan S)</webMaster>
+    <copyright>(c) 2016 Copyright Appernetic2</copyright>
     <lastBuildDate>Fri, 01 Jul 2016 12:06:15 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://appernetic2.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Today is the start of not same same bar</title>
-      <link>/2016/07/01/today-is-the-start-of-not-same-same-bar/</link>
+      <link>https://appernetic2.github.io/2016/07/01/today-is-the-start-of-not-same-same-bar/</link>
       <pubDate>Fri, 01 Jul 2016 12:06:15 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>/2016/07/01/today-is-the-start-of-not-same-same-bar/</guid>
+      <author>janne_sar@hotmail.com (Jan S)</author>
+      <guid>https://appernetic2.github.io/2016/07/01/today-is-the-start-of-not-same-same-bar/</guid>
       <description>Not same same bar to open today by the most beautiful woman in the world :) daily sales Juli 1 - $191
 Update; Smile Bar in Siem Reap 2018 Steady monthly profit</description>
     </item>
     
     <item>
       <title>gsm</title>
-      <link>/2016/02/23/gsm/</link>
+      <link>https://appernetic2.github.io/2016/02/23/gsm/</link>
       <pubDate>Tue, 23 Feb 2016 16:37:59 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>/2016/02/23/gsm/</guid>
+      <author>janne_sar@hotmail.com (Jan S)</author>
+      <guid>https://appernetic2.github.io/2016/02/23/gsm/</guid>
       <description>In Khmer Rouge era the Chinese built this air strip. It is a long runway, I would imagine a big commercial plane could land here at any moment.
 https://en.m.wikipedia.org/wiki/Kampong_Chhnang_Airport
 The strip was built deep inside Cambodia to counter the Vietnam war and facilitate Chinese warplanes.

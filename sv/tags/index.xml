@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Min blog</title>
-    <link>/sv/tags/</link>
+    <link>https://appernetic2.github.io/sv/tags/</link>
     <description>Recent content in Tags on Min blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
+    <managingEditor>janne_sar@hotmail.com (Jan S)</managingEditor>
+    <webMaster>janne_sar@hotmail.com (Jan S)</webMaster>
     <copyright>(c) 2016 Alla rättigheter</copyright>
     
-	<atom:link href="/sv/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://appernetic2.github.io/sv/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
