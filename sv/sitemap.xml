@@ -3,48 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://appernetic2.github.io/sv/</loc>
+    <loc>/sv/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://appernetic2.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="https://appernetic2.github.io/sv/"
+                href="/sv/"
                 />
   </url>
   
   <url>
-    <loc>https://appernetic2.github.io/sv/tags/</loc>
+    <loc>/sv/taggar/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://appernetic2.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://appernetic2.github.io/sv/tags/"
-                />
   </url>
   
   <url>
-    <loc>https://appernetic2.github.io/sv/topics/</loc>
+    <loc>/sv/%C3%A4mne/</loc>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://appernetic2.github.io/topics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sv"
-                href="https://appernetic2.github.io/sv/topics/"
-                />
   </url>
   
 </urlset>

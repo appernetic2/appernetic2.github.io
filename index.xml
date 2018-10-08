@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Appernetic2</title>
-    <link>https://appernetic2.github.io/</link>
-    <description>Recent content on Appernetic2</description>
+    <title>My blog</title>
+    <link>/</link>
+    <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>janne_sar@hotmail.com (Jan S)</managingEditor>
-    <webMaster>janne_sar@hotmail.com (Jan S)</webMaster>
-    <copyright>(c) 2016 Copyright Appernetic2</copyright>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2016 Copyright my blog</copyright>
     <lastBuildDate>Fri, 01 Jul 2016 12:06:15 +0000</lastBuildDate>
     
-	<atom:link href="https://appernetic2.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Today is the start of not same same bar</title>
-      <link>https://appernetic2.github.io/2016/07/01/today-is-the-start-of-not-same-same-bar/</link>
+      <link>/2016/07/01/today-is-the-start-of-not-same-same-bar/</link>
       <pubDate>Fri, 01 Jul 2016 12:06:15 +0000</pubDate>
-      <author>janne_sar@hotmail.com (Jan S)</author>
-      <guid>https://appernetic2.github.io/2016/07/01/today-is-the-start-of-not-same-same-bar/</guid>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/2016/07/01/today-is-the-start-of-not-same-same-bar/</guid>
       <description>Not same same bar to open today by the most beautiful woman in the world :) daily sales Juli 1 - $191
 Update; Smile Bar in Siem Reap 2018 Steady monthly profit</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://appernetic2.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 25 Feb 2016 10:19:30 +0000</pubDate>
-      <author>janne_sar@hotmail.com (Jan S)</author>
-      <guid>https://appernetic2.github.io/about/</guid>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/about/</guid>
       <description>I am appernetic2. Appernetic.io&amp;rsquo;s friend and business partner for a long time. I have now started beta and ceta testing the site as much as possible for your benefit. Also the product is tested from rural Cambodia in gsm-mode to test my own patience as user. This blog is the start of my memoirs book. Working name: How I got two wifes in Cambodia (against my will) https://www.facebook.com/AngkorSuperShake/photos/a.582180581883843.1073741829.574114832690418/966531053448792/?type=3&amp;amp;theater</description>
     </item>
     
     <item>
       <title>gsm</title>
-      <link>https://appernetic2.github.io/2016/02/23/gsm/</link>
+      <link>/2016/02/23/gsm/</link>
       <pubDate>Tue, 23 Feb 2016 16:37:59 +0000</pubDate>
-      <author>janne_sar@hotmail.com (Jan S)</author>
-      <guid>https://appernetic2.github.io/2016/02/23/gsm/</guid>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/2016/02/23/gsm/</guid>
       <description>In Khmer Rouge era the Chinese built this air strip. It is a long runway, I would imagine a big commercial plane could land here at any moment.
 https://en.m.wikipedia.org/wiki/Kampong_Chhnang_Airport
 The strip was built deep inside Cambodia to counter the Vietnam war and facilitate Chinese warplanes.
@@ -47,10 +47,10 @@ The strip was built deep inside Cambodia to counter the Vietnam war and facilita
     
     <item>
       <title>home</title>
-      <link>https://appernetic2.github.io/home/</link>
+      <link>/home/</link>
       <pubDate>Mon, 22 Feb 2016 16:00:28 +0000</pubDate>
-      <author>janne_sar@hotmail.com (Jan S)</author>
-      <guid>https://appernetic2.github.io/home/</guid>
+      <author>yourname@example.com (yourname)</author>
+      <guid>/home/</guid>
       <description>GoWi.Fi</description>
     </item>
     

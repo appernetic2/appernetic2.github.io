@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Appernetic2</title>
-    <link>https://appernetic2.github.io/tags/</link>
-    <description>Recent content in Tags on Appernetic2</description>
+    <title>Tags on My blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>janne_sar@hotmail.com (Jan S)</managingEditor>
-    <webMaster>janne_sar@hotmail.com (Jan S)</webMaster>
-    <copyright>(c) 2016 Copyright Appernetic2</copyright>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2016 Copyright my blog</copyright>
     
-	<atom:link href="https://appernetic2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
