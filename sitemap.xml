@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://appernetic2.github.io/2018/10/08/captain-morgan/</loc>
+    <lastmod>2018-10-08T12:06:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://appernetic2.github.io/2016/07/01/today-is-the-start-of-not-same-same-bar/</loc>
     <lastmod>2016-07-01T12:06:15+00:00</lastmod>
   </url>
@@ -18,24 +23,44 @@
   </url>
   
   <url>
+    <loc>https://appernetic2.github.io/tags/captain-morgan/</loc>
+    <lastmod>2018-10-08T12:06:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appernetic2.github.io/topics/hybris/</loc>
+    <lastmod>2018-10-08T12:06:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://appernetic2.github.io/post/</loc>
-    <lastmod>2016-07-01T12:06:15+00:00</lastmod>
+    <lastmod>2018-10-08T12:06:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://appernetic2.github.io/tags/</loc>
+    <lastmod>2018-10-08T12:06:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appernetic2.github.io/tags/the-smile-bar-in-siem-reap/</loc>
+    <lastmod>2018-10-08T12:06:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://appernetic2.github.io/topics/</loc>
+    <lastmod>2018-10-08T12:06:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://appernetic2.github.io/</loc>
-    <lastmod>2016-07-01T12:06:15+00:00</lastmod>
+    <lastmod>2018-10-08T12:06:15+00:00</lastmod>
   </url>
   
 </urlset>
