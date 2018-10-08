@@ -9,16 +9,17 @@
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2018 The Smile Bar in Siem Reap</copyright>
+    <lastBuildDate>Fri, 01 Jul 2016 12:06:15 +0000</lastBuildDate>
     
 	<atom:link href="https://appernetic2.github.io/topics/hybris/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Captain Morgan</title>
-      <link>https://appernetic2.github.io/1/01/01/captain-morgan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://appernetic2.github.io/2016/07/01/captain-morgan/</link>
+      <pubDate>Fri, 01 Jul 2016 12:06:15 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>https://appernetic2.github.io/1/01/01/captain-morgan/</guid>
+      <guid>https://appernetic2.github.io/2016/07/01/captain-morgan/</guid>
       <description>Captain Morgan Captain Morgan is on the top of the list to expand brand to The Smile Bar in Siem Reap</description>
     </item>
     
