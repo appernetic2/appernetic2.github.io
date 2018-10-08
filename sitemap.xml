@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>/en/sitemap.xml</loc>
-		
-	   	<lastmod>2016-07-01T12:06:15+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>/sv/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://appernetic2.github.io/2016/07/01/today-is-the-start-of-not-same-same-bar/</loc>
+    <lastmod>2016-07-01T12:06:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://appernetic2.github.io/about/</loc>
+    <lastmod>2016-02-25T10:19:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://appernetic2.github.io/2016/02/23/gsm/</loc>
+    <lastmod>2016-02-23T16:37:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://appernetic2.github.io/post/</loc>
+    <lastmod>2016-07-01T12:06:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appernetic2.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appernetic2.github.io/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appernetic2.github.io/</loc>
+    <lastmod>2016-07-01T12:06:15+00:00</lastmod>
+  </url>
+  
+</urlset>

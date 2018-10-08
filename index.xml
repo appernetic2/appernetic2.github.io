@@ -1,57 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog</title>
-    <link>/</link>
-    <description>Recent content on My blog</description>
+    <title>home on SmileBar</title>
+    <link>https://appernetic2.github.io/</link>
+    <description>Recent content in home on SmileBar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2016 Copyright my blog</copyright>
+    <copyright>(c) 2018 SmileBar</copyright>
     <lastBuildDate>Fri, 01 Jul 2016 12:06:15 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://appernetic2.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Today is the start of not same same bar</title>
-      <link>/2016/07/01/today-is-the-start-of-not-same-same-bar/</link>
+      <link>https://appernetic2.github.io/2016/07/01/today-is-the-start-of-not-same-same-bar/</link>
       <pubDate>Fri, 01 Jul 2016 12:06:15 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/2016/07/01/today-is-the-start-of-not-same-same-bar/</guid>
+      <guid>https://appernetic2.github.io/2016/07/01/today-is-the-start-of-not-same-same-bar/</guid>
       <description>Not same same bar to open today by the most beautiful woman in the world :) daily sales Juli 1 - $191
 Update; Smile Bar in Siem Reap 2018 Steady monthly profit</description>
     </item>
     
     <item>
-      <title>about</title>
-      <link>/about/</link>
+      <title></title>
+      <link>https://appernetic2.github.io/about/</link>
       <pubDate>Thu, 25 Feb 2016 10:19:30 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/about/</guid>
-      <description>I am appernetic2. Appernetic.io&amp;rsquo;s friend and business partner for a long time. I have now started beta and ceta testing the site as much as possible for your benefit. Also the product is tested from rural Cambodia in gsm-mode to test my own patience as user. This blog is the start of my memoirs book. Working name: How I got two wifes in Cambodia (against my will) https://www.facebook.com/AngkorSuperShake/photos/a.582180581883843.1073741829.574114832690418/966531053448792/?type=3&amp;amp;theater</description>
+      <guid>https://appernetic2.github.io/about/</guid>
+      <description>About I am appernetic2. Appernetic.io&amp;rsquo;s friend and business partner for a long time. I have now started beta and ceta testing the site as much as possible for your benefit. Also the product is tested from rural Cambodia in gsm-mode to test my own patience as user. This blog is the start of my memoirs book. Working name: How I got two wifes in Cambodia (against my will) https://www.facebook.com/AngkorSuperShake/photos/a.582180581883843.1073741829.574114832690418/966531053448792/?type=3&amp;amp;theater</description>
     </item>
     
     <item>
       <title>gsm</title>
-      <link>/2016/02/23/gsm/</link>
+      <link>https://appernetic2.github.io/2016/02/23/gsm/</link>
       <pubDate>Tue, 23 Feb 2016 16:37:59 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/2016/02/23/gsm/</guid>
+      <guid>https://appernetic2.github.io/2016/02/23/gsm/</guid>
       <description>In Khmer Rouge era the Chinese built this air strip. It is a long runway, I would imagine a big commercial plane could land here at any moment.
 https://en.m.wikipedia.org/wiki/Kampong_Chhnang_Airport
 The strip was built deep inside Cambodia to counter the Vietnam war and facilitate Chinese warplanes.
  “Henry A. Kissinger approved each of the 3,875 Cambodia bombing raids in 1969 and 1970” — the most secretive phase of the bombing — “as well as the methods for keeping them out of the newspapers.</description>
-    </item>
-    
-    <item>
-      <title>home</title>
-      <link>/home/</link>
-      <pubDate>Mon, 22 Feb 2016 16:00:28 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>/home/</guid>
-      <description>GoWi.Fi</description>
     </item>
     
   </channel>
