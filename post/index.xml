@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on SmileBar</title>
+    <title>Posts on The Smile Bar in Siem Reap</title>
     <link>https://appernetic2.github.io/post/</link>
-    <description>Recent content in Posts on SmileBar</description>
+    <description>Recent content in Posts on The Smile Bar in Siem Reap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2018 SmileBar</copyright>
+    <copyright>(c) 2018 The Smile Bar in Siem Reap</copyright>
     <lastBuildDate>Fri, 01 Jul 2016 12:06:15 +0000</lastBuildDate>
     
 	<atom:link href="https://appernetic2.github.io/post/index.xml" rel="self" type="application/rss+xml" />
